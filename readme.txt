@@ -23,5 +23,8 @@ With this plugin you can export all users fields that you want (selecting it by 
 
 == Changelog ==
 
+= 0.2 =
+* Fix error in menu slug ("You do not have sufficient permissions to access this page")
+
 = 0.1 =
 * First release. Basic functions.
